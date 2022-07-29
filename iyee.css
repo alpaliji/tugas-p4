@@ -1,0 +1,14 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+form {
+  border: 2px solid hsl(268, 40%, 51%);
+  background-color: #cac70f;
+  border-radius: 10px;
+  padding: 20px;
+  width: 300px;
+  margin: auto;
+}
